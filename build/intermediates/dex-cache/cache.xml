@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\project_android1\Makna-Pancasila\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\project_android1\Makna-Pancasila\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ab9706182bbd3f60cc0fe782b87b071462186a01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\project_android1\Makna-Pancasila\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd84331f7edb3ca17c0a724f9bf74b7eb6459815">
+        <dex dex="C:\project_android1\Makna-Pancasila\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_527e16292f5d6fbb13ee28ffc7b73d2a6c8b9882\classes.dex" />
+    </item>
+
+</items>

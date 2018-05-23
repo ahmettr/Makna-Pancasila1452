@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/tes">
+        <item
+            android:id="@+id/nav_dasar"
+            android:title="Ana Sayfa"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp" />
+        <item
+            android:id="@+id/nav_sejarah"
+            android:title="Howard Gardner"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila1"
+            android:title="Mantıksal Zeka"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila2"
+            android:title="Sözel Zeka   "
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila3"
+            android:title="Ritmik Zeka"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila4"
+            android:title="Bedensel Zeka"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_sila5"
+            android:title="Sosyal Zeka"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"/>
+        <item
+            android:id="@+id/nav_exit"
+            android:title="Çıkış"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+    </group>
+</menu>

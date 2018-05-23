@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Dil Bilgisi</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="st_dasar">Çoklu Zeka Kuramı Çeşitleri</string>
+    <string name="st_sejarah">Gardner</string>
+    <string name="st_pancasila">Dil Bilgisi</string>
+    <string name="tit_sejarah">Howard Gardner</string>
+    <string name="st_sila1">string1</string>
+    <string name="st_sila2">string2</string>
+    <string name="st_sila3">string3</string>
+    <string name="st_sila4">string4</string>
+    <string name="st_sila5">string5</string>
+    <string name="Header_Title">Çoklu Zeka Kuramıyla Dil Bilgisi Anlatımı</string>
+    <string name="Bar1">Mantıksal Zeka</string>
+    <string name="Bar2">Sözel Zeka</string>
+    <string name="Bar3">Ritmik Zeka</string>
+    <string name="Bar4">Bedensel Zeka</string>
+    <string name="Bar5">Sosyal Zeka</string>
+    <string name="BarExit">Çıkış</string>
+    <string name="head_Sejarah">Sejarah Pancasila</string>
+    <string name="Tab1">Tab1</string>
+    <string name="Tab2">Tab2</string>
+    <string name="Tab3">Tab3</string>
+    <string name="Gambar1">Gambar: Panitia Sembilan BPUPKI</string>
+    <string name="Gambar2">Gambar: Lambang Sila ke-1 (Bintang)</string>
+    <string name="Gambar3">Gambar: Lambang Sila ke-2 (Rantai)</string>
+    <string name="Gambar4">Gambar: Lambang Sila ke-3 (Beringin)</string>
+    <string name="Gambar5">Gambar: Lambang Sila ke-4 (Kepala Banteng)</string>
+    <string name="Gambar6">Gambar: Lambang Sila ke-5 (Padi dan Kapas)</string>
+
+
+    <string name="banner_home_footer">ca-app-pub-9483653834645976/1803054045</string>
+</resources>
